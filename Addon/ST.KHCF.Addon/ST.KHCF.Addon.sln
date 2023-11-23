@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ST.KHCF.Addon", "ST.KHCF.Addon\ST.KHCF.Addon.csproj", "{C644BD70-D41F-49EF-8E4E-46A82B8DD7A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ST.KHCF.Customization", "ST.KHCF.Customization\ST.KHCF.Customization.csproj", "{8A9DDF3A-CE28-4B64-B682-921166693D5A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{542F93E9-EDF0-4D81-BE1A-0A20E8BAEB2F} = {542F93E9-EDF0-4D81-BE1A-0A20E8BAEB2F}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ST.Helper", "..\..\..\ST.Helper\ST.Helper\ST.Helper.csproj", "{542F93E9-EDF0-4D81-BE1A-0A20E8BAEB2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create_UDFs", "Create_UDFs\Create_UDFs.csproj", "{DC6B13DD-BF10-43D7-AA9D-99A4A2565038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C644BD70-D41F-49EF-8E4E-46A82B8DD7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C644BD70-D41F-49EF-8E4E-46A82B8DD7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C644BD70-D41F-49EF-8E4E-46A82B8DD7A4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C644BD70-D41F-49EF-8E4E-46A82B8DD7A4}.Debug|x64.Build.0 = Debug|Any CPU
+		{C644BD70-D41F-49EF-8E4E-46A82B8DD7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C644BD70-D41F-49EF-8E4E-46A82B8DD7A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C644BD70-D41F-49EF-8E4E-46A82B8DD7A4}.Release|x64.ActiveCfg = Release|Any CPU
+		{C644BD70-D41F-49EF-8E4E-46A82B8DD7A4}.Release|x64.Build.0 = Release|Any CPU
+		{8A9DDF3A-CE28-4B64-B682-921166693D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A9DDF3A-CE28-4B64-B682-921166693D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A9DDF3A-CE28-4B64-B682-921166693D5A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8A9DDF3A-CE28-4B64-B682-921166693D5A}.Debug|x64.Build.0 = Debug|Any CPU
+		{8A9DDF3A-CE28-4B64-B682-921166693D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A9DDF3A-CE28-4B64-B682-921166693D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A9DDF3A-CE28-4B64-B682-921166693D5A}.Release|x64.ActiveCfg = Release|Any CPU
+		{8A9DDF3A-CE28-4B64-B682-921166693D5A}.Release|x64.Build.0 = Release|Any CPU
+		{542F93E9-EDF0-4D81-BE1A-0A20E8BAEB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542F93E9-EDF0-4D81-BE1A-0A20E8BAEB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542F93E9-EDF0-4D81-BE1A-0A20E8BAEB2F}.Debug|x64.ActiveCfg = Debug|x64
+		{542F93E9-EDF0-4D81-BE1A-0A20E8BAEB2F}.Debug|x64.Build.0 = Debug|x64
+		{542F93E9-EDF0-4D81-BE1A-0A20E8BAEB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542F93E9-EDF0-4D81-BE1A-0A20E8BAEB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{542F93E9-EDF0-4D81-BE1A-0A20E8BAEB2F}.Release|x64.ActiveCfg = Release|x64
+		{542F93E9-EDF0-4D81-BE1A-0A20E8BAEB2F}.Release|x64.Build.0 = Release|x64
+		{DC6B13DD-BF10-43D7-AA9D-99A4A2565038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6B13DD-BF10-43D7-AA9D-99A4A2565038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6B13DD-BF10-43D7-AA9D-99A4A2565038}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DC6B13DD-BF10-43D7-AA9D-99A4A2565038}.Debug|x64.Build.0 = Debug|Any CPU
+		{DC6B13DD-BF10-43D7-AA9D-99A4A2565038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6B13DD-BF10-43D7-AA9D-99A4A2565038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC6B13DD-BF10-43D7-AA9D-99A4A2565038}.Release|x64.ActiveCfg = Release|Any CPU
+		{DC6B13DD-BF10-43D7-AA9D-99A4A2565038}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49DD320D-0310-4053-AC2D-98AFED1D1A55}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://85.10.224.171:8080/tfs/skytech
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\..\\..\\ST.Helper\\ST.Helper\\ST.Helper.csproj
+		SccProjectName1 = ../../../ST.Helper/ST.Helper
+		SccLocalPath1 = ..\\..\\..\\ST.Helper\\ST.Helper
+		SccProjectUniqueName2 = Create_UDFs\\Create_UDFs.csproj
+		SccProjectName2 = Create_UDFs
+		SccLocalPath2 = Create_UDFs
+		SccProjectUniqueName3 = ST.KHCF.Addon\\ST.KHCF.Addon.csproj
+		SccProjectName3 = ST.KHCF.Addon
+		SccLocalPath3 = ST.KHCF.Addon
+		SccProjectUniqueName4 = ST.KHCF.Customization\\ST.KHCF.Customization.csproj
+		SccProjectName4 = ST.KHCF.Customization
+		SccLocalPath4 = ST.KHCF.Customization
+	EndGlobalSection
+EndGlobal

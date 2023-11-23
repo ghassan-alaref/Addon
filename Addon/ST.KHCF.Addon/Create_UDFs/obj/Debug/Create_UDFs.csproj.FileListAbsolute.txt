@@ -1,0 +1,17 @@
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\bin\Debug\Create_UDFs.exe.config
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\bin\Debug\Create_UDFs.exe
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\bin\Debug\Create_UDFs.pdb
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\bin\Debug\ST.Helper.dll
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\bin\Debug\ST.KHCF.Customization.dll
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\bin\Debug\stdole.dll
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\bin\Debug\ST.KHCF.Customization.pdb
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\obj\Debug\Create_UDFs.csprojAssemblyReference.cache
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\obj\Debug\Create_UDFs.Frm_Main.resources
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\obj\Debug\Create_UDFs.Properties.Resources.resources
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\obj\Debug\Create_UDFs.csproj.GenerateResource.cache
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\obj\Debug\Create_UDFs.csproj.CoreCompileInputs.cache
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\obj\Debug\Create_UDFs.csproj.CopyComplete
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\obj\Debug\Create_UDFs.exe
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\Create_UDFs\obj\Debug\Create_UDFs.pdb

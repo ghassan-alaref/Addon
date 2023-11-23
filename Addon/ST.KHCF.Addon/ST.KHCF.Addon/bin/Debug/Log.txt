@@ -1,0 +1,5 @@
+System.Runtime.InteropServices.COMException (0xFFFFE3DE): Connection - Could not find SBO that match the connection string
+   at SAPbouiCOM.SboGuiApiClass.Connect(String ConnectionStr)
+   at ST.KHCF.Customization.Loader.SetApplication() in C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Customization\Loader.cs:line 638
+   at ST.KHCF.Customization.Loader.Set_SAP_Connection() in C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Customization\Loader.cs:line 663
+   at ST.KHCF.Customization.Loader..ctor() in C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Customization\Loader.cs:line 32

@@ -1,0 +1,16 @@
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Addon\bin\Debug\ST.KHCF.Addon.exe.config
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Addon\bin\Debug\ST.KHCF.Addon.exe
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Addon\bin\Debug\ST.KHCF.Addon.pdb
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Addon\bin\Debug\ST.Helper.dll
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Addon\bin\Debug\ST.KHCF.Customization.dll
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Addon\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Addon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Addon\bin\Debug\stdole.dll
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Addon\bin\Debug\ST.KHCF.Customization.pdb
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Addon\obj\Debug\ST.KHCF.Addon.csprojAssemblyReference.cache
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Addon\obj\Debug\ST.KHCF.Addon.Properties.Resources.resources
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Addon\obj\Debug\ST.KHCF.Addon.csproj.GenerateResource.cache
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Addon\obj\Debug\ST.KHCF.Addon.csproj.CoreCompileInputs.cache
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Addon\obj\Debug\ST.KHCF.Addon.csproj.CopyComplete
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Addon\obj\Debug\ST.KHCF.Addon.exe
+C:\Users\garef\Desktop\WorkSpace\KHCF\Addon\ST.KHCF.Addon\ST.KHCF.Addon\obj\Debug\ST.KHCF.Addon.pdb
